@@ -45,7 +45,7 @@ $ cd ..
 $ catkin_make
 $ cd
 ```
-9.
+9. `Resource not found: rgbd_launch`
 ```bash
 $ sudo apt-get install ros-melodic-rgbd-launch
 $ roslaunch freenect_launch freenect.launch
