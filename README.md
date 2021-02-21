@@ -50,3 +50,10 @@ $ cd
 $ sudo apt-get install ros-melodic-rgbd-launch
 $ roslaunch freenect_launch freenect.launch
 ```
+10.
+```bash
+$ rviz
+```
+Select \
+Fixed Frame= `camera_link` \
+PointCloud2 topic= `/camera/depth_registered/image`
