@@ -1,5 +1,7 @@
 ## Installing Microsoft Kinect 360 (Model 1410) in Jetson Nano
 
+<b> Give a :star: if you found useful ! </b>
+
 1. Check if Kinect is detected \
 ```bash
 $ lsusb
