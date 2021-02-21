@@ -1,6 +1,6 @@
 ## Installing Microsoft Kinect 360 (Model 1410) in Jetson Nano
 
-1. Check if Kinect is detected 
+1. Check if Kinect is detected \
 `$ lsusb`
 
 2. 
@@ -56,4 +56,4 @@ $ rviz
 ```
 Select \
 Fixed Frame= `camera_link` \
-PointCloud2 topic= `/camera/depth_registered/image`
+PointCloud2 topic= `/camera/depth_registered/points`
