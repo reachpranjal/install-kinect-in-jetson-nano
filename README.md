@@ -52,7 +52,7 @@ $ cd
 $ sudo apt-get install ros-melodic-rgbd-launch
 $ roslaunch freenect_launch freenect.launch
 ```
-10. Open rvi and visualize pointcloud
+10. Open rviz and visualize pointcloud
 ```bash
 $ rviz
 ```
